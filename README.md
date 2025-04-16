@@ -47,11 +47,3 @@ UHI/
 
 ---
 
-## 🧪 Backend Setup (FastAPI + GEE)
-
-1. **Create and activate a virtual environment**:
-
-```bash
-cd UHI
-python -m venv env
-source env/bin/activate  # or `env\Scripts\activate` on Windows
