@@ -9,7 +9,7 @@ This project dynamically detects Urban Heat Island (UHI) risk zones using **Goog
 -  Dynamic UHI risk mapping using **MODIS LST** and **Sentinel-2** data
 -  Visualize maps on an interactive **React Leaflet map**
 -  Ask location-based or environment-related questions with **Gemini Pro**
--  Fully hosted backend on **FastAPI + Google Cloud Run**
+- Fully hosted backend on **FastAPI + Google Cloud Run**
 
 ---
 
